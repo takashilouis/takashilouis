@@ -2,20 +2,30 @@ Hi there, I'm Khanh Nguyen 👋
 
 👨‍💻 About Me
 
-I’m a Software Engineer transitioning from an extensive background in Embedded Systems Engineering. With over 6 years of experience in embedded software, I’m now focused on broadening my expertise in Software Engineering and DevOps, particularly in full-stack development and cloud-based technologies. Currently, I’m pursuing my Master's in Computer Science at Dakota State University. 
+I’m a Software Engineer with over 6 years of experience in Embedded Systems, along with hands-on experience in Software and Web application development. 
 
-🌱 I’m gradually converting from Embedded Software Engineering to Software Engineering, working on backend and cloud projects.<br/>
-⚙️ I’m building and managing scalable cloud infrastructures using AWS, Docker, Kubernetes, and CI/CD pipelines with Jenkins and GitHub Actions.<br/>
-🔭 I’m working on a full-stack Airbnb clone project using Angular, Spring Boot, and PostgreSQL.<br/>
-💬 Ask me about DevOps, Full-Stack Development, Cloud Infrastructure, or transitioning from Embedded to Software Engineering.<br/>
+Currently, I’m pursuing a Master’s in Computer Science at Dakota State University, with a focus on AI (Large Language Models), backend development, and DevOps. I’m passionate about building intelligent systems that are scalable, efficient, and impactful.
+
+🌟 What I’m Working On
+🗣️ Building a full-stack interview platform with a real-time AI Voice Agent using Next.js.<br>
+
+✅ Highlights of What I’ve Done
+🧠 Optimized the Phi-2 Small Language Model using QLoRA and PEFT for dialogue and news summarization, achieving a 75% reduction in GPU memory usage<br/>
+☁️ Built and automated infrastructure using AWS, Docker, Kubernetes, and CI/CD pipelines (Jenkins, GitHub Actions)<br/> 
+🧩 Developed a full-stack Airbnb clone with Angular, Spring Boot, PostgreSQL, and integrated Elasticsearch for high-performance search<br/>
+
 📫 Reach me at: LinkedIn (linkedin.com/in/khanhlouisnguyen) or via email at takashilouisnguyen@gmail.com.<br/>
 
 🛠️ My Skills<br/>
-Languages: Java, C/C++, C# .NET, Python, Node.js, React.js, PHP, HTML, CSS, JavaScript<br/>
-Technologies/Frameworks: Spring Boot, ASP.NET, Kafka, Redis, CI/CD, Elasticsearch<br/>
-Tools: AWS (S3, EC2, Lambda), Jenkins, Docker, Kubernetes, GitHub Actions, Prometheus<br/>
-Databases: MySQL, PostgreSQL, MongoDB<br/>
-Methodologies: SDLC, Scrum/Agile, Waterfall, V-model<br/>
+AI & Machine Learning Skills
+Technologies / Frameworks: PyTorch, Langchain, HuggingFace, Transformers, Flash Attention 2, Streamlit, TensorFlow
+AI API: Claude, Gemini, OpenAI
+Languages: C, C++, C#, Java, Python, Dart, Node.js, React
+Frameworks & Tools: Next.js, Spring Boot, ASP.NET, Flutter
+Cloud & DevOps: AWS, Docker, Kubernetes, Kafka, Redis, Jenkins, GitHub Actions, Prometheus, Elasticsearch, CI/CD
+Databases: Firebase, MySQL, PostgreSQL, MongoDB
+Methodologies: SDLC, Agile, Scrum, V-Model
+
 
 🚀 Projects
 
@@ -44,6 +54,8 @@ Developed a movie streaming app with a Node.js back-end and React front-end.<br/
 Utilized MongoDB and Firebase Firestore for data storage and user authentication.<br/>
 Implemented various functionalities like movie listings, search, and admin management.<br/>
 Technologies: Node.js, React.js, MongoDB, Firebase, Tailwind CSS.<br/>
+
+In my previous roles, I’ve worked extensively with C for embedded systems and built C# Windows applications to interface with embedded hardware.
 
 🛠️ My Skills in Embedded System
 
