@@ -6,25 +6,25 @@ I’m a Software Engineer with over 6 years of experience in Embedded Systems, a
 
 Currently, I’m pursuing a Master’s in Computer Science at Dakota State University, with a focus on AI (Large Language Models), backend development, and DevOps. I’m passionate about building intelligent systems that are scalable, efficient, and impactful.
 
-🌟 What I’m Working On
-🗣️ Building a full-stack interview platform with a real-time AI Voice Agent using Next.js.<br>
+🌟 What I’m Working On</br>
+🗣️ Building Mockmate, a full-stack interview platform with a real-time AI Voice Agent using Next.js.<br>
 
-✅ Highlights of What I’ve Done
+✅ Highlights of What I’ve Done</br>
 🧠 Optimized the Phi-2 Small Language Model using QLoRA and PEFT for dialogue and news summarization, achieving a 75% reduction in GPU memory usage<br/>
-☁️ Built and automated infrastructure using AWS, Docker, Kubernetes, and CI/CD pipelines (Jenkins, GitHub Actions)<br/> 
-🧩 Developed a full-stack Airbnb clone with Angular, Spring Boot, PostgreSQL, and integrated Elasticsearch for high-performance search<br/>
+🧠 **CodeXDiagram**: Developed this intuitive code-to-flowchart generation tool with AI capabilities using React, Node.js, and Google's Gemini API, enabling developers to instantly visualize code logic and algorithms
+🧩 **Airbnb-Lite**: Developed a full-stack Airbnb clone with Angular, Spring Boot, PostgreSQL, and integrated Elasticsearch for high-performance search<br/>
 
 📫 Reach me at: LinkedIn (linkedin.com/in/khanhlouisnguyen) or via email at takashilouisnguyen@gmail.com.<br/>
 
 🛠️ My Skills<br/>
-AI & Machine Learning Skills
-Technologies / Frameworks: PyTorch, Langchain, HuggingFace, Transformers, Flash Attention 2, Streamlit, TensorFlow
-AI API: Claude, Gemini, OpenAI
-Languages: C, C++, C#, Java, Python, Dart, Node.js, React
-Frameworks & Tools: Next.js, Spring Boot, ASP.NET, Flutter
-Cloud & DevOps: AWS, Docker, Kubernetes, Kafka, Redis, Jenkins, GitHub Actions, Prometheus, Elasticsearch, CI/CD
-Databases: Firebase, MySQL, PostgreSQL, MongoDB
-Methodologies: SDLC, Agile, Scrum, V-Model
+AI & Machine Learning Skills</br>
+    Technologies / Frameworks: RAG, PyTorch, Langchain, HuggingFace, Transformers, Flash Attention 2, Streamlit, TensorFlow
+    LLM api: Claude, Gemini, OpenAI
+Languages: C, C++, C#, Java, Python, Dart, Node.js, React<br/>
+Frameworks & Tools: Next.js, Spring Boot, ASP.NET, Flutter<br/>
+Cloud & DevOps: AWS, Docker, Kubernetes, Kafka, Redis, Jenkins, GitHub Actions, Prometheus, Elasticsearch, CI/CD<br/>
+Databases: Firebase, MySQL, PostgreSQL, MongoDB<br/>
+Methodologies: SDLC, Agile, Scrum, V-Model<br/>
 
 
 🚀 Projects
