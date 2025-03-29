@@ -11,15 +11,15 @@ Currently, I’m pursuing a Master’s in Computer Science at Dakota State Unive
 
 ✅ Highlights of What I’ve Done</br>
 🧠 Optimized the Phi-2 Small Language Model using QLoRA and PEFT for dialogue and news summarization, achieving a 75% reduction in GPU memory usage<br/>
-🧠 **CodeXDiagram**: Developed this intuitive code-to-flowchart generation tool with AI capabilities using React, Node.js, and Google's Gemini API, enabling developers to instantly visualize code logic and algorithms
+🧠 **CodeXDiagram**: Developed this intuitive code-to-flowchart generation tool with AI capabilities using React, Node.js, and Google's Gemini API, enabling developers to instantly visualize code logic and algorithms</br>
 🧩 **Airbnb-Lite**: Developed a full-stack Airbnb clone with Angular, Spring Boot, PostgreSQL, and integrated Elasticsearch for high-performance search<br/>
 
 📫 Reach me at: LinkedIn (linkedin.com/in/khanhlouisnguyen) or via email at takashilouisnguyen@gmail.com.<br/>
 
 🛠️ My Skills<br/>
 AI & Machine Learning Skills</br>
-    Technologies / Frameworks: RAG, PyTorch, Langchain, HuggingFace, Transformers, Flash Attention 2, Streamlit, TensorFlow
-    LLM api: Claude, Gemini, OpenAI
+&nbsp;&nbsp;Technologies / Frameworks: RAG, PyTorch, Langchain, HuggingFace, Transformers, Flash Attention 2, Streamlit, TensorFlow
+&nbsp;&nbsp;LLM api: Claude, Gemini, OpenAI
 Languages: C, C++, C#, Java, Python, Dart, Node.js, React<br/>
 Frameworks & Tools: Next.js, Spring Boot, ASP.NET, Flutter<br/>
 Cloud & DevOps: AWS, Docker, Kubernetes, Kafka, Redis, Jenkins, GitHub Actions, Prometheus, Elasticsearch, CI/CD<br/>
@@ -29,11 +29,32 @@ Methodologies: SDLC, Agile, Scrum, V-Model<br/>
 
 🚀 Projects
 
+🧩 CodeX Diagram – Visual Flowchart Generator from Code
+
+Built a full-stack web app that converts code into interactive flowcharts for better understanding and documentation. 
+Supports both AI-powered and static generation modes using Google Gemini API and code2flow. 
+Features real-time rendering with advanced parsing and layout algorithms.
+
+Technologies: React.js, D3.js, dagre-d3, Node.js, Express.js, Google Gemini API, code2flow, esprima, esgraph
+
+Link: https://github.com/takashilouis/codeXdiagram
+
+🧠 YouTube Video Summarizer with Gemini API
+
+Developed a web-based app that summarizes YouTube videos and answers user questions using transcript data. 
+Integrated Google Gemini API for summarization and Q&A, with the first 500 words of the transcript displayed for quick viewing. 
+Built with Streamlit for a responsive UI and used youtube-transcript-api for transcript extraction.
+
+Technologies: Python, Streamlit, Gemini API, youtube-transcript-api
+
+Link: https://github.com/takashilouis/Gemini-yt-summarizer
+
 👨‍💻 Crawler Website System
 
 Built a comprehensive web crawler system with real-time data processing capabilities.
 Integrated Redis Stream, PostgreSQL, Elasticsearch, and Kafka to manage the data pipeline.
 Hosted the entire infrastructure on AWS EC2, containerized using Docker.
+
 Technologies: Go, Redis Stream, PostgreSQL, Elasticsearch, Kafka, AWS EC2, Docker.
 
 Link: https://github.com/takashilouis/cdc-system
