@@ -10,7 +10,7 @@ Currently, I’m pursuing a Master’s in Computer Science at Dakota State Unive
 🗣️ Building Mockmate, a full-stack interview platform with a real-time AI Voice Agent using Next.js.<br>
 
 ✅ Highlights of What I’ve Done</br>
-🧠 Optimized the Phi-2 Small Language Model using QLoRA and PEFT for dialogue and news summarization, achieving a 75% reduction in GPU memory usage<br/>
+🧠 Optimized the Phi-2 Small Language Model using QLoRA and PEFT for dialogue and news summarization, achieving a 75% reduction in GPU memory usage and 40% increase in ROUGE score<br/>
 🧠 **CodeXDiagram**: Developed this intuitive code-to-flowchart generation tool with AI capabilities using React, Node.js, and Google's Gemini API, enabling developers to instantly visualize code logic and algorithms</br>
 🧩 **Airbnb-Lite**: Developed a full-stack Airbnb clone with Angular, Spring Boot, PostgreSQL, and integrated Elasticsearch for high-performance search<br/>
 
