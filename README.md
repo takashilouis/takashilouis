@@ -1,63 +1,64 @@
+Website: khanhlouis.vercel.app
+Professional services at: louiskhanh.vercel.app
+
 Hi, I’m Khanh Nguyen
 
 I’m an AI Software Engineer specializing in LLM systems, AI agents, and end-to-end AI applications.
-I bring a rare combination of deep systems engineering and modern Generative AI product development, with a strong focus on agentic workflows, scalable backends, and real-world deployment.
+I bring a rare combination of deep systems engineering with 6 years experience in embedded software development, and modern Generative AI product development, with a strong focus on agentic workflows, scalable backends, and real-world deployment.
 
-🎓 M.S. in Computer Science — Dakota State University (GPA 3.9) 
-
-KhanhNguyen_AISoftwareEngineer_…
-
+🎓 M.S. in Computer Science — Dakota State University (GPA 3.9)
 
 🧠 Research & industry experience across LLMs, RAG, AI agents, and MLOps
 
 🧠 What I Focus On
 
-AI Agents & Agentic Systems (LangGraph, multi-agent orchestration, tool-calling)
+- AI Agents & Agentic Systems (LangGraph, multi-agent orchestration, tool-calling)
 
-LLM Applications (RAG, summarization, analysis, chatbots, automation)
+- LLM Applications (RAG, summarization, analysis, chatbots, automation)
 
-Production-Ready AI Platforms (FastAPI, Next.js, cloud deployment)
+- Production-Ready AI Platforms (FastAPI, Next.js, cloud deployment)
 
-LLM Optimization & Fine-Tuning (QLoRA, PEFT, memory-efficient inference)
+- LLM Optimization & Fine-Tuning (QLoRA, PEFT, memory-efficient inference)
 
 I enjoy turning LLMs from demos into real products.
 
 🚀 Current Projects
-🎬 Vling — AI Video Generation Platform
-
-A BYOK (Bring Your Own Key) AI video platform focused on flexibility, cost-efficiency, and creative control.
-
-Key capabilities
-
-BYOK Video Generation
-Generate videos using Google Veo 3.1 and Kling 2.6 with your own API keys
-→ no subscriptions, no markup, pure pay-as-you-go
-
-Motion Control Magic
-Upload a character image + motion reference video
-→ Kling 2.6 transfers motion directly to your character (dance, action, cinematic shots)
-
-AI Script Generator
-Describe your idea → AI generates a multi-clip video script with optimized prompts
-→ one-click generation per clip (ads, reels, cinematic scenes)
-
-Tech: Next.js, AI APIs (Veo, Kling), serverless backend, prompt orchestration
-
 🧠 E-commerce Product Analysis AI Agent
 
 A multi-agent LLM system designed for autonomous product research and comparison.
 
 What it does
 
-Autonomous task planning and execution
+- Autonomous task planning and execution
 
-Parallel agents for summarization, sentiment analysis, and product comparison
+- Parallel agents for summarization, sentiment analysis, and product comparison
 
-Structured outputs for reliable downstream consumption
+- Structured outputs for reliable downstream consumption
 
-RAG-powered reasoning over large, noisy datasets
+- RAG-powered reasoning over large, noisy datasets
 
 Tech: FastAPI, LangGraph, OpenAI / Gemini / Claude, PostgreSQL + pgvector, cloud deployment
+
+🎬 Vling — AI Video Generation Platform
+
+👉 https://vlingvideo.vercel.app/
+
+A BYOK (Bring Your Own Key) AI video platform focused on flexibility, cost-efficiency, and creative control.
+
+Key capabilities
+- BYOK Video Generation
+Generate videos using Google Veo 3.1 and Kling 2.6 with your own API keys
+→ no subscriptions, no markup, pure pay-as-you-go
+
+- Motion Control Magic
+Upload a character image + motion reference video
+→ Kling 2.6 transfers motion directly to your character (dance, action, cinematic shots)
+
+- AI Script Generator
+Describe your idea → AI generates a multi-clip video script with optimized prompts
+→ one-click generation per clip (ads, reels, cinematic scenes)
+
+Tech: Next.js, AI APIs (Veo, Kling), serverless backend, prompt orchestration
 
 🥖 Banh-my Chatbot
 
@@ -85,44 +86,50 @@ Optimized Phi-2 Small Language Model using 4-bit QLoRA + PEFT
 Deployed fine-tuning on HPC clusters with SLURM
 
 🧩 CodeXDiagram — AI Code → Flowchart
+-> code2diagram.vercel.app
 
-Converts code into interactive flowcharts and diagrams
+- Converts code into interactive flowcharts and diagrams
 
-AI-powered + static generation modes
+- AI-powered + static generation modes
 
-Advanced parsing, layout, and validation pipelines
+- Advanced parsing, layout, and validation pipelines
 
-🔗 https://github.com/takashilouis/codeXdiagram
+🔗 https://github.com/takashilouis/code2diagram
 
 🛠️ Core Skill Set
-AI / LLM
+- AI / LLM
 
-AI Agents, LangChain, LangGraph
+-- AI Agents, LangChain, LangGraph
 
-RAG, vector embeddings, prompt engineering
+-- RAG, vector embeddings, prompt engineering
 
-Fine-tuning: QLoRA, PEFT
+-- Fine-tuning: QLoRA, PEFT
 
-Models & APIs: OpenAI, Gemini, Claude
+-- Models & APIs: OpenAI, Gemini, Claude
 
-Backend & Platforms
+-- Vector DB: Pinecone, FAISS, pgvector
 
-FastAPI, Next.js, Node.js
+- Backend & Platforms
 
-REST, WebSocket, async pipelines
+-- FastAPI, Next.js, Node.js
 
-PostgreSQL, pgvector, Redis, Elasticsearch
+-- REST, WebSocket, JWT, OAuth.
 
-Cloud & MLOps
+-- PostgreSQL, Redis, Elasticsearch
 
-AWS, Docker, Kubernetes
+- Cloud & MLOps
 
-CI/CD (GitHub Actions, Jenkins)
+-- AWS, Docker, Kubernetes
 
-Scalable, containerized deployments
+-- CI/CD (GitHub Actions, Jenkins)
+
+-- Scalable, containerized deployments
 
 📫 Contact
 
 LinkedIn: https://linkedin.com/in/khanhlouisnguyen
 
 Email: takashilouisnguyen@gmail.com
+
+Website: khanhlouis.vercel.app
+Professional services at: louiskhanh.vercel.app
