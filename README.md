@@ -2,6 +2,8 @@
 
 🌐 **Website**: https://khanhlouis.vercel.app  
 💼 **Professional Services**: https://louiskhanh.vercel.app  
+**LinkedIn**: https://linkedin.com/in/khanhlouisnguyen  
+**Email**: takashilouisnguyen@gmail.com  
 
 I’m an **AI Software Engineer** specializing in **LLM systems, AI agents, and end-to-end AI applications**.
 
@@ -33,16 +35,15 @@ I bring a rare combination of **deep systems engineering** with **6 years of exp
 ## 🚀 Current Projects
 
 ### 🧠 E-commerce Product Analysis AI Agent
-
-A **multi-agent LLM system** designed for autonomous product research and comparison.
+👉 Going to be LIVE on https://siftagent.vercel.app/ (under construction)
+An *autonomous multi-agent system that orchestrates deep-dive product research across the entire eCommerce platforms (Amazon, Best Buy, ...) to deliver institutional-grade market analysis and real-time e-commerce insights.
 
 **What it does**
-- Autonomous task planning and execution  
-- Parallel agents for summarization, sentiment analysis, and product comparison  
-- Structured outputs for reliable downstream consumption  
-- RAG-powered reasoning over large, noisy datasets  
+- Autonomous Multi-Agent Research System: Orchestrates a team of specialized AI agents (Planner, Scraper, Analyst) using LangGraph to autonomously conduct deep market research, live web scraping via Playwright, and detailed product querying without human intervention.
+- Dual-Mode Intelligence: Features a unique One-Shot Mode for generating full-length comprehensive reports and an interactive Chat Mode with RAG capabilities (PostgreSQL + pgvector) for conversational deep-dives and persistent context.
+- Scalable Modern Architecture: A properly engineered full-stack platform built with Next.js and FastAPI, featuring dynamic workflow orchestration, session management, and a modular design ready for real-time enterprise deployment.
 
-**Tech**: FastAPI, LangGraph, OpenAI / Gemini / Claude, PostgreSQL + pgvector, cloud deployment
+**Tech**: FastAPI, LangGraph, LLMs(Gemini 3.0 Pro/Flash), NextJS, PostgreSQL + pgvector, Cloud Deployment (Railway & Vercel)
 
 ---
 
@@ -78,6 +79,7 @@ A general-purpose **AI assistant** focused on **content creation and developer p
 - 🧑‍💻 Code generation & execution: write and run Python code interactively  
 - 🌐 Web development assistance: generate HTML mockups and UI prototypes  
 
+**Tech**: Next.js, LLMs (Claude, OpenAI, Gemini, Grok), Neon (DB), Upstash for Redis, Blob store.
 ---
 
 ## 🧪 Selected Past Work
