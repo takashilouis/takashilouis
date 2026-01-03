@@ -1,96 +1,128 @@
-Hi there, I'm Khanh Nguyen 👋
+Hi, I’m Khanh Nguyen
 
-👨‍💻 About Me
+I’m an AI Software Engineer specializing in LLM systems, AI agents, and end-to-end AI applications.
+I bring a rare combination of deep systems engineering and modern Generative AI product development, with a strong focus on agentic workflows, scalable backends, and real-world deployment.
 
-I’m a Software Engineer with over 6 years of experience in Embedded Systems, along with hands-on experience in Software and Web application development. 
+🎓 M.S. in Computer Science — Dakota State University (GPA 3.9) 
 
-Currently, I’m pursuing a Master’s in Computer Science at Dakota State University, with a focus on AI (Large Language Models), backend development, and DevOps. I’m passionate about building intelligent systems that are scalable, efficient, and impactful.
-
-🌟 What I’m Working On</br>
-🗣️ Building Mockmate, a full-stack interview platform with a real-time AI Voice Agent using Next.js.<br>
-
-✅ Highlights of What I’ve Done</br>
-🧠 Optimized the Phi-2 Small Language Model using QLoRA and PEFT for dialogue and news summarization, achieving a 75% reduction in GPU memory usage and 40% increase in ROUGE score<br/>
-🧠 **CodeXDiagram**: Developed this intuitive code-to-flowchart generation tool with AI capabilities using React, Node.js, and Google's Gemini API, enabling developers to instantly visualize code logic and algorithms</br>
-🧩 **Airbnb-Lite**: Developed a full-stack Airbnb clone with Angular, Spring Boot, PostgreSQL, and integrated Elasticsearch for high-performance search<br/>
-
-📫 Reach me at: LinkedIn (linkedin.com/in/khanhlouisnguyen) or via email at takashilouisnguyen@gmail.com.<br/>
-
-🛠️ My Skills<br/>
-AI & Machine Learning Skills</br>
-&nbsp;&nbsp;Technologies / Frameworks: RAG, PyTorch, Langchain, HuggingFace, Transformers, Flash Attention 2, Streamlit, TensorFlow
-&nbsp;&nbsp;LLM api: Claude, Gemini, OpenAI
-Languages: C, C++, C#, Java, Python, Dart, Node.js, React<br/>
-Frameworks & Tools: Next.js, Spring Boot, ASP.NET, Flutter<br/>
-Cloud & DevOps: AWS, Docker, Kubernetes, Kafka, Redis, Jenkins, GitHub Actions, Prometheus, Elasticsearch, CI/CD<br/>
-Databases: Firebase, MySQL, PostgreSQL, MongoDB<br/>
-Methodologies: SDLC, Agile, Scrum, V-Model<br/>
+KhanhNguyen_AISoftwareEngineer_…
 
 
-🚀 Projects
+🧠 Research & industry experience across LLMs, RAG, AI agents, and MLOps
 
-🧩 CodeX Diagram – Visual Flowchart Generator from Code
+🧠 What I Focus On
 
-Built a full-stack web app that converts code into interactive flowcharts for better understanding and documentation. 
-Supports both AI-powered and static generation modes using Google Gemini API and code2flow. 
-Features real-time rendering with advanced parsing and layout algorithms.
+AI Agents & Agentic Systems (LangGraph, multi-agent orchestration, tool-calling)
 
-Technologies: React.js, D3.js, dagre-d3, Node.js, Express.js, Google Gemini API, code2flow, esprima, esgraph
+LLM Applications (RAG, summarization, analysis, chatbots, automation)
 
-Link: https://github.com/takashilouis/codeXdiagram
+Production-Ready AI Platforms (FastAPI, Next.js, cloud deployment)
 
-🧠 YouTube Video Summarizer with Gemini API
+LLM Optimization & Fine-Tuning (QLoRA, PEFT, memory-efficient inference)
 
-Developed a web-based app that summarizes YouTube videos and answers user questions using transcript data. 
-Integrated Google Gemini API for summarization and Q&A, with the first 500 words of the transcript displayed for quick viewing. 
-Built with Streamlit for a responsive UI and used youtube-transcript-api for transcript extraction.
+I enjoy turning LLMs from demos into real products.
 
-Technologies: Python, Streamlit, Gemini API, youtube-transcript-api
+🚀 Current Projects
+🎬 Vling — AI Video Generation Platform
 
-Link: https://github.com/takashilouis/Gemini-yt-summarizer
+A BYOK (Bring Your Own Key) AI video platform focused on flexibility, cost-efficiency, and creative control.
 
-👨‍💻 Crawler Website System
+Key capabilities
 
-Built a comprehensive web crawler system with real-time data processing capabilities.
-Integrated Redis Stream, PostgreSQL, Elasticsearch, and Kafka to manage the data pipeline.
-Hosted the entire infrastructure on AWS EC2, containerized using Docker.
+BYOK Video Generation
+Generate videos using Google Veo 3.1 and Kling 2.6 with your own API keys
+→ no subscriptions, no markup, pure pay-as-you-go
 
-Technologies: Go, Redis Stream, PostgreSQL, Elasticsearch, Kafka, AWS EC2, Docker.
+Motion Control Magic
+Upload a character image + motion reference video
+→ Kling 2.6 transfers motion directly to your character (dance, action, cinematic shots)
 
-Link: https://github.com/takashilouis/cdc-system
+AI Script Generator
+Describe your idea → AI generates a multi-clip video script with optimized prompts
+→ one-click generation per clip (ads, reels, cinematic scenes)
 
-👨‍💻 AirLite – Full-Stack Airbnb Clone (Java Spring, AngularJS)
+Tech: Next.js, AI APIs (Veo, Kling), serverless backend, prompt orchestration
 
-Built a full-stack Airbnb clone using Angular, Spring Boot, and PostgreSQL.<br/>
-Implemented robust security features with Spring Security, OAuth2, and JWT.<br/>
-Integrated Elasticsearch for fast search performance and advanced querying.<br/>
-Developed booking management and property listing features for both hosts and travelers.<br/>
-Technologies: Angular, Spring Boot, PostgreSQL, Elasticsearch, JWT, OAuth2.<br/>
+🧠 E-commerce Product Analysis AI Agent
 
-Link: https://github.com/takashilouis/airbnbclone
+A multi-agent LLM system designed for autonomous product research and comparison.
 
-👨‍💻 Full-Stack Movie Streaming App
+What it does
 
-Developed a movie streaming app with a Node.js back-end and React front-end.<br/>
-Utilized MongoDB and Firebase Firestore for data storage and user authentication.<br/>
-Implemented various functionalities like movie listings, search, and admin management.<br/>
-Technologies: Node.js, React.js, MongoDB, Firebase, Tailwind CSS.<br/>
+Autonomous task planning and execution
 
-In my previous roles, I’ve worked extensively with C for embedded systems and built C# Windows applications to interface with embedded hardware.
+Parallel agents for summarization, sentiment analysis, and product comparison
 
-🛠️ My Skills in Embedded System
+Structured outputs for reliable downstream consumption
 
-Programming languages: C/ C++, CAPL, C# .NET, VisualBasic .NET<br/>
-Scripting language : Python, makefile<br/>
-Development environment & tools: Eclipse, OpenOCD, gcc, Greenhills, SystemDesk, AEEEPro, Davinci, Visual Studio <br/>
-AUTOSAR knowledge: Diagnostic stack (Dcm, Dem), COM stack (CAN, CANIf, PduR), SecOC, Fvm <br/>
-Communication protocols : CAN, CAN-FD, UDS, CANTP, XCP, UART, SPI, I2C. <br/>
-Standards: MISRA C 2012, ISO 27001, ISO 14229 (UDS), ISO 26262, ASIL <br/>
-Microcontroller : STM32F429, STM32F4, RH850/P1x, Arduino, Raspberry Pi, ESP32, ESP8266 <br/>
-OS : Windows, MacOS, Linux, RTA-OS, RTOS, FreeRTOS | Debugging tools: ST-LINK v2, E1/E2 Emulator, Lauterbach <br/>
+RAG-powered reasoning over large, noisy datasets
 
-👨‍💻 Lamp ECU Diagnostics Automation (C# .NET, CAPL, CANoe)
+Tech: FastAPI, LangGraph, OpenAI / Gemini / Claude, PostgreSQL + pgvector, cloud deployment
 
-Developed a C# .NET application to validate and test Lamp ECU operations.<br/>
-Automated the reporting process for Lamp ECU reprogramming evidence, significantly improving efficiency.<br/>
-Technologies: C# .NET, CAPL, CANoe, UDS Services.
+🥖 Banh-my Chatbot
+
+👉 https://banh-my.vercel.app/
+
+A general-purpose AI assistant focused on content creation and developer productivity.
+
+Capabilities
+
+✍️ Content creation: documents, essays, emails, stories, long-form writing
+
+🧑‍💻 Code generation & execution: write and run Python code interactively
+
+🌐 Web development assistance: generate HTML mockups and UI prototypes
+
+🧪 Selected Past Work
+🧠 LLM Optimization Research
+
+Optimized Phi-2 Small Language Model using 4-bit QLoRA + PEFT
+
+75% GPU memory reduction
+
++40% ROUGE score improvement on DialogSum & CNN/DailyMail
+
+Deployed fine-tuning on HPC clusters with SLURM
+
+🧩 CodeXDiagram — AI Code → Flowchart
+
+Converts code into interactive flowcharts and diagrams
+
+AI-powered + static generation modes
+
+Advanced parsing, layout, and validation pipelines
+
+🔗 https://github.com/takashilouis/codeXdiagram
+
+🛠️ Core Skill Set
+AI / LLM
+
+AI Agents, LangChain, LangGraph
+
+RAG, vector embeddings, prompt engineering
+
+Fine-tuning: QLoRA, PEFT
+
+Models & APIs: OpenAI, Gemini, Claude
+
+Backend & Platforms
+
+FastAPI, Next.js, Node.js
+
+REST, WebSocket, async pipelines
+
+PostgreSQL, pgvector, Redis, Elasticsearch
+
+Cloud & MLOps
+
+AWS, Docker, Kubernetes
+
+CI/CD (GitHub Actions, Jenkins)
+
+Scalable, containerized deployments
+
+📫 Contact
+
+LinkedIn: https://linkedin.com/in/khanhlouisnguyen
+
+Email: takashilouisnguyen@gmail.com
