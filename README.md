@@ -1,135 +1,129 @@
-Website: khanhlouis.vercel.app
-Professional services at: louiskhanh.vercel.app
+# 👋 Hi, I’m Khanh Nguyen
 
-Hi, I’m Khanh Nguyen
+🌐 **Website**: https://khanhlouis.vercel.app  
+💼 **Professional Services**: https://louiskhanh.vercel.app  
 
-I’m an AI Software Engineer specializing in LLM systems, AI agents, and end-to-end AI applications.
-I bring a rare combination of deep systems engineering with 6 years experience in embedded software development, and modern Generative AI product development, with a strong focus on agentic workflows, scalable backends, and real-world deployment.
+I’m an **AI Software Engineer** specializing in **LLM systems, AI agents, and end-to-end AI applications**.
 
-🎓 M.S. in Computer Science — Dakota State University (GPA 3.9)
+I bring a rare combination of **deep systems engineering** with **6 years of experience in embedded software development**, together with modern **Generative AI product development**. My work focuses on **agentic workflows, scalable backends, and real-world deployment** of AI systems.
 
-🧠 Research & industry experience across LLMs, RAG, AI agents, and MLOps
+🎓 **M.S. in Computer Science** — Dakota State University (GPA: 3.9)  
+🧠 Research & industry experience across **LLMs, RAG, AI agents, and MLOps**
 
-🧠 What I Focus On
+---
 
-- AI Agents & Agentic Systems (LangGraph, multi-agent orchestration, tool-calling)
+## 🧠 What I Focus On
 
-- LLM Applications (RAG, summarization, analysis, chatbots, automation)
+- **AI Agents & Agentic Systems**  
+  LangGraph, multi-agent orchestration, tool-calling
 
-- Production-Ready AI Platforms (FastAPI, Next.js, cloud deployment)
+- **LLM Applications**  
+  RAG, summarization, analysis, chatbots, automation
 
-- LLM Optimization & Fine-Tuning (QLoRA, PEFT, memory-efficient inference)
+- **Production-Ready AI Platforms**  
+  FastAPI, Next.js, cloud-native deployment
 
-I enjoy turning LLMs from demos into real products.
+- **LLM Optimization & Fine-Tuning**  
+  QLoRA, PEFT, memory-efficient inference
 
-🚀 Current Projects
-🧠 E-commerce Product Analysis AI Agent
+> I enjoy turning **LLMs from demos into real products**.
 
-A multi-agent LLM system designed for autonomous product research and comparison.
+---
 
-What it does
+## 🚀 Current Projects
 
-- Autonomous task planning and execution
+### 🧠 E-commerce Product Analysis AI Agent
 
-- Parallel agents for summarization, sentiment analysis, and product comparison
+A **multi-agent LLM system** designed for autonomous product research and comparison.
 
-- Structured outputs for reliable downstream consumption
+**What it does**
+- Autonomous task planning and execution  
+- Parallel agents for summarization, sentiment analysis, and product comparison  
+- Structured outputs for reliable downstream consumption  
+- RAG-powered reasoning over large, noisy datasets  
 
-- RAG-powered reasoning over large, noisy datasets
+**Tech**: FastAPI, LangGraph, OpenAI / Gemini / Claude, PostgreSQL + pgvector, cloud deployment
 
-Tech: FastAPI, LangGraph, OpenAI / Gemini / Claude, PostgreSQL + pgvector, cloud deployment
+---
 
-🎬 Vling — AI Video Generation Platform
-
+### 🎬 Vling — AI Video Generation Platform  
 👉 https://vlingvideo.vercel.app/
 
-A BYOK (Bring Your Own Key) AI video platform focused on flexibility, cost-efficiency, and creative control.
+A **BYOK (Bring Your Own Key)** AI video platform focused on **flexibility, cost-efficiency, and creative control**.
 
-Key capabilities
-- BYOK Video Generation
-Generate videos using Google Veo 3.1 and Kling 2.6 with your own API keys
-→ no subscriptions, no markup, pure pay-as-you-go
+**Key capabilities**
+- **BYOK Video Generation**  
+  Generate videos using **Google Veo 3.1** and **Kling 2.6** with your own API keys  
+  → no subscriptions, no markup, pure pay-as-you-go
 
-- Motion Control Magic
-Upload a character image + motion reference video
-→ Kling 2.6 transfers motion directly to your character (dance, action, cinematic shots)
+- **Motion Control Magic**  
+  Upload a **character image + motion reference video**  
+  → Kling 2.6 transfers motion directly to your character (dance, action, cinematic shots)
 
-- AI Script Generator
-Describe your idea → AI generates a multi-clip video script with optimized prompts
-→ one-click generation per clip (ads, reels, cinematic scenes)
+- **AI Script Generator**  
+  Describe your idea → AI generates a **multi-clip video script with optimized prompts**  
+  → one-click generation per clip (ads, reels, cinematic scenes)
 
-Tech: Next.js, AI APIs (Veo, Kling), serverless backend, prompt orchestration
+**Tech**: Next.js, AI APIs (Veo, Kling), serverless backend, prompt orchestration
 
-🥖 Banh-my Chatbot
+---
 
+### 🥖 Banh-my Chatbot  
 👉 https://banh-my.vercel.app/
 
-A general-purpose AI assistant focused on content creation and developer productivity.
+A general-purpose **AI assistant** focused on **content creation and developer productivity**.
 
-Capabilities
+**Capabilities**
+- ✍️ Content creation: documents, essays, emails, stories, long-form writing  
+- 🧑‍💻 Code generation & execution: write and run Python code interactively  
+- 🌐 Web development assistance: generate HTML mockups and UI prototypes  
 
-✍️ Content creation: documents, essays, emails, stories, long-form writing
+---
 
-🧑‍💻 Code generation & execution: write and run Python code interactively
+## 🧪 Selected Past Work
 
-🌐 Web development assistance: generate HTML mockups and UI prototypes
+### 🧠 LLM Optimization Research
+- Optimized **Phi-2 Small Language Model** using **4-bit QLoRA + PEFT**
+- **75% GPU memory reduction**
+- **+40% ROUGE score improvement** on DialogSum & CNN/DailyMail
+- Deployed fine-tuning on **HPC clusters with SLURM**
 
-🧪 Selected Past Work
-🧠 LLM Optimization Research
+---
 
-Optimized Phi-2 Small Language Model using 4-bit QLoRA + PEFT
-
-75% GPU memory reduction
-
-+40% ROUGE score improvement on DialogSum & CNN/DailyMail
-
-Deployed fine-tuning on HPC clusters with SLURM
-
-🧩 CodeXDiagram — AI Code → Flowchart
--> code2diagram.vercel.app
-
-- Converts code into interactive flowcharts and diagrams
-
-- AI-powered + static generation modes
-
-- Advanced parsing, layout, and validation pipelines
-
+### 🧩 CodeXDiagram — AI Code → Flowchart  
+👉 https://code2diagram.vercel.app  
 🔗 https://github.com/takashilouis/code2diagram
 
-🛠️ Core Skill Set
-- AI / LLM
+- Converts code into **interactive flowcharts and diagrams**
+- Supports **AI-powered** and **static** generation modes
+- Advanced parsing, layout, and validation pipelines
 
--- AI Agents, LangChain, LangGraph
+---
 
--- RAG, vector embeddings, prompt engineering
+## 🛠️ Core Skill Set
 
--- Fine-tuning: QLoRA, PEFT
+### AI / LLM
+- AI Agents, LangChain, LangGraph  
+- RAG, vector embeddings, prompt engineering  
+- Fine-tuning: QLoRA, PEFT  
+- Models & APIs: OpenAI, Gemini, Claude  
+- Vector DB: Pinecone, FAISS, pgvector  
 
--- Models & APIs: OpenAI, Gemini, Claude
+### Backend & Platforms
+- FastAPI, Next.js, Node.js  
+- REST, WebSocket, JWT, OAuth  
+- PostgreSQL, Redis, Elasticsearch  
 
--- Vector DB: Pinecone, FAISS, pgvector
+### Cloud & MLOps
+- AWS, Docker, Kubernetes  
+- CI/CD: GitHub Actions, Jenkins  
+- Scalable, containerized deployments  
 
-- Backend & Platforms
+---
 
--- FastAPI, Next.js, Node.js
+## 📫 Contact
 
--- REST, WebSocket, JWT, OAuth.
-
--- PostgreSQL, Redis, Elasticsearch
-
-- Cloud & MLOps
-
--- AWS, Docker, Kubernetes
-
--- CI/CD (GitHub Actions, Jenkins)
-
--- Scalable, containerized deployments
-
-📫 Contact
-
-LinkedIn: https://linkedin.com/in/khanhlouisnguyen
-
-Email: takashilouisnguyen@gmail.com
-
-Website: khanhlouis.vercel.app
-Professional services at: louiskhanh.vercel.app
+- **LinkedIn**: https://linkedin.com/in/khanhlouisnguyen  
+- **Email**: takashilouisnguyen@gmail.com  
+- **Website**: https://khanhlouis.vercel.app  
+- **Professional Services**: https://louiskhanh.vercel.app  
