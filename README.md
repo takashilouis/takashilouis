@@ -32,17 +32,17 @@ I bring a rare combination of **deep systems engineering** with **6 years of exp
 
 ## 🚀 Current Projects
 
-### 🧠 E-commerce Product Analysis AI Agent
+### 🧠 Sift - E-commerce Product Analysis AI Agent
+👉 Going to be LIVE on https://sift-ai-agent-fe.vercel.app/
 
-A **multi-agent LLM system** designed for autonomous product research and comparison.
+An autonomous multi-agent intelligence that orchestrates deep-dive product research across the entire eCommerce platforms (Amazon, Best Buy, Walmart,...) to deliver institutional-grade market analysis and real-time e-commerce insights.
 
 **What it does**
-- Autonomous task planning and execution  
-- Parallel agents for summarization, sentiment analysis, and product comparison  
-- Structured outputs for reliable downstream consumption  
-- RAG-powered reasoning over large, noisy datasets  
+- Autonomous Multi-Agent Research System: Orchestrates a team of specialized AI agents (Planner, Scraper, Analyst) using LangGraph to autonomously conduct deep market research, live web scraping via Playwright, and detailed product querying without human intervention.
+- Dual-Mode Intelligence: Features a unique One-Shot Mode for generating full-length comprehensive reports and an interactive Chat Mode with RAG capabilities (PostgreSQL + pgvector) for conversational deep-dives and persistent context.
+- Scalable Modern Architecture: A properly engineered full-stack platform built with Next.js and FastAPI, featuring dynamic workflow orchestration, session management, and a modular design ready for real-time enterprise deployment.
 
-**Tech**: FastAPI, LangGraph, OpenAI / Gemini / Claude, PostgreSQL + pgvector, cloud deployment
+**Tech**: FastAPI, LangGraph, OpenAI / Gemini / Claude, PostgreSQL + pgvector, cloud deployment (Railway + Vercel)
 
 ---
 
