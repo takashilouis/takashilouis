@@ -1,15 +1,14 @@
 # 👋 Hi, I’m Khanh Nguyen
 
-🌐 **Website**: https://khanhlouis.vercel.app  
-💼 **Professional Services**: https://louiskhanh.vercel.app  
+🌐 **Website**: https://louiskhanh.com
 **LinkedIn**: https://linkedin.com/in/khanhlouisnguyen  
 **Email**: takashilouisnguyen@gmail.com  
 
 I’m an **AI Software Engineer** specializing in **LLM systems, AI agents, and end-to-end AI applications**.
 
-I bring a rare combination of **deep systems engineering** with **6 years of experience in embedded software development**, together with modern **Generative AI product development**. My work focuses on **agentic workflows, scalable backends, and real-world deployment** of AI systems.
+I bring a rare combination of **deep systems engineering** with total of **7 years of experience in Generative AI product development** and embedded software development**. My work focuses on **agentic workflows, scalable backends, and real-world deployment** of AI systems.
 
-🎓 **M.S. in Computer Science** — Dakota State University (GPA: 3.9)  
+🎓 **M.S. in Computer Science** — Dakota State University (2025 - GPA: 3.9)  
 🧠 Research & industry experience across **LLMs, RAG, AI agents, and MLOps**
 
 ---
